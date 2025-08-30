@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242351083056",
+    "project_id": "erya-dev",
+    "storage_bucket": "erya-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242351083056:android:bb8b95f64dc7dfabe627f5",
+        "android_client_info": {
+          "package_name": "com.example.eyra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SLUv4JkfQKAXejZHZjqmhUgMT4e1Iec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
